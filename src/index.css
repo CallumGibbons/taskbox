@@ -14,7 +14,7 @@ body {
   font-style: 400;
   color: #333;
   font-size: 16px;
-  background-color: #26c6da;
+  background-color: #7a26da;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -433,7 +433,7 @@ textarea {
 }
 
 .page.lists-show nav {
-  background: #d3edf4;
+  background: #e95d5d;
   padding: 1.5rem 1.25rem;
   text-align: center;
 }
